@@ -38,7 +38,18 @@ PALAVRAS_BLOQUEADAS = {
         "álcool",
         "tabaco",
         "cocô",
-        "xixi"
+        "xixi",
+        "pussy",
+        "penis",
+        "vagina",
+        "picada",
+        "fezes",
+        "lubrificante",
+        "paula mole",
+        "paula dura",
+        "sangue",
+        "semen"
+
     ]
 }
 
